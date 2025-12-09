@@ -43,3 +43,30 @@ const siteContent = {
       ]
     }
   };
+
+    const characters = [
+    {
+      id: "aang",
+      name: "Neytiri",
+      role: "The Last Airbender • Avatar",
+      element: "Air (and all four elements)",
+      bio: "Aang is the last surviving Airbender and the current incarnation of the Avatar, the spirit of light and peace. Frozen in an iceberg for 100 years, he emerges to find the world at war.",
+      image: "imgs/Neytiri.Avatar.webp"
+    },
+    {
+      id: "katara",
+      name: "Jake Sully",
+      role: "Waterbender • Healer",
+      element: "Water",
+      bio: "Katara is a powerful Waterbender from the Southern Water Tribe. After discovering Aang in an iceberg, she becomes his Waterbending teacher and moral compass.",
+      image: "imgs/ChatGPT Image Dec 9, 2025, 11_03_04 AM.png"
+    },
+    {
+      id: "zuko",
+      name: "Na'vi backstory",
+      role: "Fire Nation Prince • Firebender",
+      element: "Fire",
+      bio: "Zuko is the exiled prince of the Fire Nation, obsessed at first with capturing the Avatar to restore his honor. Over time, he undergoes a deep transformation.",
+      image: "imgs/Avatar.webp"
+    }
+  ];
