@@ -70,3 +70,41 @@ const siteContent = {
       image: "imgs/Avatar.webp"
     }
   ];
+
+  const episodes = [
+    {
+      title: "The Boy in the Iceberg",
+      season: 1,
+      episodeNumber: 1,
+      focusCharacterId: "aang",
+      description: "Katara and Sokka discover a mysterious boy trapped in an iceberg, awakening the last Airbender—and the Avatar."
+    },
+    {
+      title: "The Warriors of Kyoshi",
+      season: 1,
+      episodeNumber: 4,
+      focusCharacterId: "aang",
+      description: "Aang enjoys his new fame on Kyoshi Island while Sokka learns humility from the elite Kyoshi Warriors."
+    },
+    {
+      title: "The Waterbending Master",
+      season: 1,
+      episodeNumber: 18,
+      focusCharacterId: "katara",
+      description: "At the Northern Water Tribe, Katara challenges old traditions to become a true Waterbending master."
+    },
+    {
+      title: "The Storm",
+      season: 1,
+      episodeNumber: 12,
+      focusCharacterId: "zuko",
+      description: "Parallel flashbacks reveal the painful pasts of both Aang and Zuko, exploring guilt, duty, and destiny."
+    },
+    {
+      title: "The Crossroads of Destiny",
+      season: 2,
+      episodeNumber: 20,
+      focusCharacterId: "zuko",
+      description: "Allies and enemies collide in Ba Sing Se as Zuko faces a fateful choice between family and his own path."
+    }
+  ];
